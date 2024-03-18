@@ -1,0 +1,3 @@
+[submodule "secretproject"]
+	path = secretproject
+	url = git@github.com:p13pinheiro/secretproject.git
